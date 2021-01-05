@@ -34,5 +34,5 @@ This PowerAutomate template was included all business logics need for running th
 2. Import PowerAutomate template and config connectors and parameter.
 3. Enjoy
 
-# Demo
-[![Watch the video](https://img.youtube.com/vi/V49l9U56bWM/hqdefault.jpg)](https://youtu.be/V49l9U56bWM)
+# Demo in Vietnamese language
+[![Manual Request a team demo](https://img.youtube.com/vi/V49l9U56bWM/hqdefault.jpg)](https://youtu.be/V49l9U56bWM)
