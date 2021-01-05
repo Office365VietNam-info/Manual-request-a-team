@@ -1,7 +1,7 @@
 # Manual-request-a-team
 Use PowerAutomate to make a flow for request approval a team in Microsoft Teams.
 
-# Architecture - Manual request a team
+# Architecture workflow - Manual request a team
 This's basic Architecture for this flow:
 A. User should submit their requests via MS Forms.
 B. PowerAutomate will store request information in SharePoint list.
